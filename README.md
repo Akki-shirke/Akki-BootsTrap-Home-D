@@ -3,28 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project Showcase</title>
+    <title>Home Decor</title>
 </head>
 <body>
-    <!-- Project Title -->
-    <h1>Awesome Project</h1>
-   
-    <p>This project is designed to demonstrate the core features and functionalities of a modern web application. It includes various interactive elements and a user-friendly interface.</p>
-    
-
-    <h3>Key Features:</h3>
-    <ul>
-        <li>Fully responsive and mobile-friendly layout</li>
-        <li>Dynamic and interactive UI components</li>
-        <li>High performance and fast loading times</li>
-        <li>Seamless API integrations</li>
-        <li>Cross-browser compatibility</li>
-        <li>Secure authentication and user management</li>
-    </ul>
+    <header>
+        <h1>Welcome to Home Decor</h1>
+        <p>Enhance your living space with our premium decor items.</p>
+    </header>
     
  
-    <p><a href="" target="_blank">View Project on GitHub</a></p>
+        <h2>Our Collection</h2>
+        <ul>
+            <li>Modern Furniture</li>
+            <li>Wall Art</li>
+            <li>Lighting</li>
+            <li>Indoor Plants</li>
+        </ul>
+
+    
+
+        <p>Follow us on social media:</p>
+        <a href="https://www.instagram.com/your_instagram" target="_blank">Instagram</a>
+        <a href="https://www.linkedin.com/in/anket-shirke-3bb4bb297" target="_blank">LinkedIn</a>
+  
 </body>
+</html>
 
 
 
