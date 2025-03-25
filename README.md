@@ -1,7 +1,7 @@
  ﻿# Home-Decore
 <p>this is a home decore website Templete</p>
 <ul>
- <li>Home-Decore :</li>
+ <li>Home-Decore :https://akki-shirke.github.io/Akki-BootsTrap-Home-D/</li>
 </ul>
 
 ## 🌐 Socials:
